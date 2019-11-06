@@ -5,6 +5,7 @@
 sql-novice-survey
 =================
 
+PRUEBA 
 An introduction to databases and SQL using Antarctic survey data.
 Please see <https://swcarpentry.github.io/sql-novice-survey/> for a rendered version of this material,
 [the lesson template documentation][lesson-example]
