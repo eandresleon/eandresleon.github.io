@@ -11,7 +11,8 @@ carpentry: "swc"
 
 # Overall title for pages.
 title: "Edu Databases and SQL"
-
+production_url : http://eandresleon.github.io/eandresleon.github.io
+BASE_PATH : http://eandresleon.github.io/eandresleon.github.io 
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
